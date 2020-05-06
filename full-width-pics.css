@@ -1,0 +1,24 @@
+/*!
+ * Start Bootstrap - Full Width Pics (https://startbootstrap.com/template-overviews/full-width-pics)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+a{
+  font-size: 49;
+}
+
+.bg-image-full {
+  background-size: cover
+}
+h1{
+  font-size: 60px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  font-style: oblique;
+}
+p.lead{
+  font-size: 1cm;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
